@@ -1,4 +1,5 @@
 # 海尔集团供应链风险管理平台 - API 接口文档 (Mock)
+<!-- Last Deployment Trigger: 2024-03-31 -->
 
 此文档旨在为后端开发人员提供 Haier SCRM 平台所需的接口定义及数据结构。目前前端采用 Mock 方式进行开发。
 
