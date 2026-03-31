@@ -4,8 +4,6 @@ import {
   ShieldAlert, 
   Search, 
   Filter, 
-  TrendingUp, 
-  TrendingDown, 
   AlertTriangle,
   Building2,
   MapPin,
