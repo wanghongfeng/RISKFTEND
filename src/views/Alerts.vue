@@ -3,10 +3,6 @@ import { ref, onMounted } from 'vue'
 import { 
   Bell, 
   ShieldAlert, 
-  AlertTriangle, 
-  Info,
-  ChevronRight,
-  TrendingUp,
   Activity,
   Calendar,
   Filter

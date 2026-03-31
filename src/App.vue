@@ -5,10 +5,8 @@ import {
   ShieldAlert, 
   BarChart3, 
   Truck, 
-  AlertCircle, 
   Menu, 
   X,
-  Map,
   Settings,
   Bell,
   Search,
@@ -16,7 +14,6 @@ import {
 } from 'lucide-vue-next'
 
 const isSidebarOpen = ref(true)
-const activeMenu = ref('Dashboard')
 
 const menuItems = [
   { name: '风险概览', icon: LayoutDashboard, path: '/' },
